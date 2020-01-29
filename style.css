@@ -107,14 +107,15 @@
 
 .testimonial figure img {
   width: 60px;
-  margin: 20px 10px 10px;
+  margin: 20px 5px;
+  /* margin: 20px 10px 10px; */
   opacity: .5;
 }
 
 .testimonial figure img.active {
   width: 90px;
   opacity: 1;
-  margin-top: 5px;
+  margin-top: 7px;
 }
 
 .testimonial figure h5 {
@@ -167,7 +168,8 @@
     margin-top: -75px;
   }
   .jumbotron .display-4 {
-    font-size: 62px;
+    font-size: 60px;
+    margin-bottom: 50px;
   }
   .workingspace {
     text-align: left;
